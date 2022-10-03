@@ -15,12 +15,12 @@ Formado em física...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krlosalessandro&show_icons=true&theme=dark)
 
-##Projetos
+## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krlosalessandro&repo=jornadaDev-EBAC)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krlosalessandro&repo=jornadaDev-EBAC)](https://github.com/krlosalessandro/jornadaDev-EBAC.git)
 
 
-##Contatos
+## Contatos
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/carlos-alessandro-silva-dos-anjos-29171a162/)
 
