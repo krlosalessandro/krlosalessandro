@@ -9,6 +9,10 @@ Formado em física...
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+## Aprendendo
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krlosalessandro&show_icons=true&theme=dark)
 
 ##Projetos
@@ -33,4 +37,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github.com/anuraghazra/github-readme-stats#github-stats-card cards
+https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
 -->
